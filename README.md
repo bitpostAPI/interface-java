@@ -2,7 +2,7 @@
 This module wraps the bitpost API so that it's easier to experiment and play with.
 
 # Install
-Check https://jitpack.io/#co.bitpost/interface-java/main-SNAPSHOT . Or, if you are using maven, add jitpack to your repositories 
+Check https://jitpack.io/#co.bitpost/interface-java/1.0.0 . Or, if you are using maven, add jitpack to your repositories 
 and the following dependency:
 
 ```xml
@@ -14,7 +14,7 @@ and the following dependency:
     <dependency>
         <groupId>co.bitpost</groupId>
         <artifactId>interface-java</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.0</version>
     </dependency>
 </dependencies>
 
